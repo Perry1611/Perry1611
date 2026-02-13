@@ -69,12 +69,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Perry1611&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Perry1611&layout=compact)
-
----
-
 ## 📫 Contact & Links
 - 📧 Email: perrysiregar0@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/perrysaputrahalim/
@@ -82,4 +76,3 @@ Here are some ideas to get you started:
 ---
 
 ⭐ *Feel free to explore my repositories and connect with me!*
-
