@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 🚀 Passionate about learning, collaboration, and real-world projects
 
 ---
-
-** 👨‍💻 About Me
+## 👨‍💻 About Me
 - 📚 Mahasiswa Teknologi Informasi Universitas Sumatera Utara
 - 🧠 Memiliki minat pada pengembangan aplikasi berbasis web dan sistem
 - 🤝 Terbiasa bekerja dalam tim dan memiliki pengalaman **leadership**
