@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
--- 👨‍💻 About Me
+== 👨‍💻 About Me
 - 📚 Mahasiswa Teknologi Informasi Universitas Sumatera Utara
 - 🧠 Memiliki minat pada pengembangan aplikasi berbasis web dan sistem
 - 🤝 Terbiasa bekerja dalam tim dan memiliki pengalaman **leadership**
